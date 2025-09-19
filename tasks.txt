@@ -1,0 +1,15 @@
+1;Task description 1;Alice;2025-09-21;1.0;On Hold;False;Follow up required;MEDIUM
+2;Task description 2;Alice;2025-10-13;1.5;On Hold;True;Needs review;HIGH
+3;Task description 3;Bob;2025-09-27;4.8;On Hold;True;Reviewed;MEDIUM
+4;Task description 4;Eve;2025-09-20;3.8;Open;False;No comments;HIGH
+5;Task description 5;Eve;2025-09-19;1.1;Open;False;Urgent task;MEDIUM
+6;Task description 6;Eve;2025-10-07;5.0;Completed;False;Follow up required;LOW
+7;Task description 7;Eve;2025-10-09;5.4;Completed;False;Urgent task;MEDIUM
+8;Task description 8;Alice;2025-10-14;7.0;On Hold;True;No comments;LOW
+9;Task description 9;Bob;2025-10-10;5.9;On Hold;False;Needs review;HIGH
+10;Task description 10;Charlie;2025-09-21;2.0;Open;False;Needs review;HIGH
+11;Task description 11;Charlie;2025-10-06;6.8;On Hold;True;Urgent task;MEDIUM
+12;Task description 12;Charlie;2025-10-10;6.0;On Hold;True;Needs review;HIGH
+13;Task description 13;Alice;2025-09-24;5.4;On Hold;True;Needs review;HIGH
+14;Task description 14;Alice;2025-09-19;4.2;Open;True;Needs review;HIGH
+15;Task description 15;Eve;2025-09-19;5.7;Open;False;Reviewed;MEDIUM
